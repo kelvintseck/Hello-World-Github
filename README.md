@@ -1,3 +1,3 @@
 # Hello-World-Github
-This is a hellow world project for usage of Github
-I added this line in the "features" branch.
+Hello I am Kelvin Tse!
+My Student ID is 1155192082
